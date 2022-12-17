@@ -1,3 +1,6 @@
+# ikbal'in geliştirdiği repoyya yorum satırı ekledim
+
+
 import random
 
 
@@ -114,4 +117,6 @@ while gameRunning:
     computer(tahta)
     kontrolIfWin(tahta)
     kontrolIfTie(tahta)
+
+
 
